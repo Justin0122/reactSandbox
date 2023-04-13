@@ -35,7 +35,13 @@
       "last 1 safari version"
     ]
   },
+<<<<<<< HEAD
     "frameworks": {
         "react": "^18.2.0",
     }
+=======
+  "frameworks": {
+    "react": "10.3"
+  }
+>>>>>>> 447c232 (added frameworks to package.json)
 }
