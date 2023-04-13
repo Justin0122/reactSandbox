@@ -36,6 +36,6 @@
     ]
   },
   "frameworks": [
-    "React"
+    "react": "^18.2.0"
    ]
 }
